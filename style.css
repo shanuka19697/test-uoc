@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:linear-gradient(120deg,#6126a3,#2d0377);
+}
+
+.container{
+    border: 1px solid;
+    border-radius: 20px;
+    background: white;
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 20px;
+
+}
+h3{
+    text-align: center;
+    margin-bottom: 10px;
+}
